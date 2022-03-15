@@ -41,6 +41,13 @@ https://www.raspberrypi.org/software/operating-systems/#raspberry-pi-os-32-bit
 
 And you’ll need a keyboard, mouse, and monitor that is HDMI compatible, and some other wiring bits and maybe a breadboard…  
 
+
+------------------------------------------------------------------------------
+setup github
+------------------------------------------------------------------------------
+for setting up the personal access token ! 
+https://www.edgoad.com/2021/02/using-personal-access-tokens-with-git-and-github.html
+
 -------------------------------------------------------------------------------
 Install circuitpython to let python connect to the input pins: 
 -------------------------------------------------------------------------------
